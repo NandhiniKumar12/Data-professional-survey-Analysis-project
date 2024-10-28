@@ -65,6 +65,6 @@ The analysis will utilize the following tools and technologies:
 
 - **Description**: An analysis of demographic data such as age, gender, and ethnicity in relation to data careers.
 - **Visualization**: 
-![Demographic Insights](path/to/your/image6.png)
+![Demographic Insights](Picture1.png)
  
      
